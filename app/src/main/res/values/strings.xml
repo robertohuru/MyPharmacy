@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyPharmacy</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyPharmacy</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_maps">Maps</string>
+    <string name="menu_payments">Make Payment</string>
+    <string name="menu_SignUp">Sign Up</string>
+    <string name="menu_ContactUs">Contact Us</string>
+    <string name="menu_AboutUs">About Us</string>
+    <string name="menu_Login">Login</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
